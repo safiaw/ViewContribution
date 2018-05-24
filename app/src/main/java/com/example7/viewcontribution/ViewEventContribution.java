@@ -8,6 +8,7 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+
 public class ViewEventContribution extends AppCompatActivity{
 
     private ListView mListView;
